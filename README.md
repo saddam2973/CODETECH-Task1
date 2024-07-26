@@ -1,9 +1,14 @@
 # CODETECH-Task1
-**Name:** SHAIK SADDAM HUSSAIN/
+**Name:** SHAIK SADDAM HUSSAIN
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT12DS1487
+
 **Domain:** FULL STACK
+
 **Duration:** July to September 2024
+
 **Mentor:** NEELA SANTOSH KUMAR 
 ### Full Stack Development Project Overview
 
